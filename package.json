@@ -1,0 +1,12 @@
+{
+  "name": "01introduccion",
+  "version": "1.0.0",
+  "description": "Prueba",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "minga": "tsc && node ./output(Carp.a.comp.)/index.js"
+  },
+  "author": "Abel Spiridione",
+  "license": "ISC"
+}
